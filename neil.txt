@@ -9,3 +9,8 @@ drwxr-xr-x  17 neil staff       578 Oct 19  2013 usb data
 rw-r--r--   1 neil staff    390034 Aug  2  2014  test.html
 ---r-r-     5 bob staf      546363  Jul 10  2017 webpage_neil.html
 rw-r--r--   1 neil staff    390034 Aug  2  2014  test.htmls
+rw-r--r--   1 neil staff    390034 Aug  2  2014  test1.htmls
+rw-r--r--   1 neil staff    390034 Aug  2  2014  test2.htmls
+rw-r--r--   1 neil staff    390034 Aug  2  2014  test3.htmls
+rw-r--r--   1 neil staff    390034 Aug  2  2014  test4.htmls
+rw-r--r--   1 neil staff    390034 Aug  2  2014  test5.htmls
